@@ -1,0 +1,8 @@
+{
+  "short_name": "Mod UI",
+  "name": "Roblox Moderation UI",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
